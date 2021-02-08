@@ -1,0 +1,6 @@
+cd desktop
+cd flex-webchat-ui-sample-master
+npm install
+npm start
+npm run build
+serve -s build
